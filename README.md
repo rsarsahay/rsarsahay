@@ -5,7 +5,12 @@
 
 - 🌱 I’m currently learning **DSA**
 
+- ⚡ I'm interested in **Problem Solving**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
 - 📫 Reach me **sarsahay.ritu07@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
