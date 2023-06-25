@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritu Sarsahay</h1>
-<h3 align="center">4th Year Computer Science Student</h3>
+<h3 align="center">Final Year Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsarsahay&label=Profile%20views&color=0e75b6&style=flat" alt="rsarsahay" /> </p>
 
